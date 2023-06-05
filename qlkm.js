@@ -12,7 +12,7 @@ hostname = qadx*.qinlinad.com, mall-dsp*.qinlinkeji.com
 var body = $response.body;
 
 body = body.replace(/\"list"./g, delete '\"list"');
-
+body = body.replace(/\"ads"./g, delete '\"ads"');
 body = body.replace(/\"newYearSkinBannerUrl":".*?"/g, '\"newYearSkinBannerUrl":""');
 
 body = body.replace(/\"defaultBannerUrl":".*?"/g, '\"defaultBannerUrl":""');
