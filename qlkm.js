@@ -7,6 +7,7 @@
 hostname = qadx*.qinlinad.com, mall-dsp*.qinlinkeji.com
 
 *************************************/
-let obj = JSON.parse($response.body);
-delete obj.result.ads;
+
+var body = $response.body
+delete body.result.ads;
 $done({ body: JSON.stringify(obj) });
