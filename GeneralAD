@@ -1,3 +1,4 @@
-^https?:\/\/api-access\.pangolin-sdk-toutiao1\.com\/api\/ad url reject-200
+^https:\/\/v2mi\.gdt\.qq\.com\/gdt_mview\.fcg url reject-200
 
-hostname = api-access.pangolin-sdk-toutiao1.com
+
+hostname = v2mi.gdt.qq.com
