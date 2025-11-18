@@ -2,5 +2,5 @@
 
 ^https://app.bilibili.com/x/v2/splash/show url reject-dict
 ^https:\/\/app\.bilibili\.com\/x\/v2\/splash\/list url script-response-body https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/bilibili_json.js
-hostname = v2mi.gdt.qq.com，app.bilibili.com
+hostname = v2mi.gdt.qq.com,app.bilibili.com
 
