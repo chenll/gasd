@@ -1,7 +1,3 @@
-^https:\/\/v2mi\.gdt\.qq\.com\/gdt_mview\.fcg url reject-200
-
-
-hostname = v2mi.gdt.qq.com
 
 # > IT之家
 # hostname = napi.ithome.com
