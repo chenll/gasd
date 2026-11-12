@@ -1,2 +1,3 @@
-hostname = api-access.pangolin-sdk-toutiao1.com
+hostname = api-access.pangolin-sdk-toutiao1.com,https://open.e.kuaishou.com
 ^https?:\/\/api-access\.pangolin-sdk-toutiao1\.com\/iapi\/iad\/iunion\/isdk\/istats\/ibatch url reject-200
+^https?:\/\/open\.e\.kuaishou\.com url reject-200
