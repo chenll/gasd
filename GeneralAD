@@ -1,5 +1,5 @@
-hostname = pic-mall.qinlinad.com,qlp.qinlinad.com,file.qinlinad.com,,mallapi2.qinlinkeji.com
-^https?:\/\/pic-mall\.qinlinad\.com url reject-200
-^https?:\/\/qlp\.qinlinad\.com url reject-200
-^https?:\/\/file\.qinlinad\.com url reject-200
-^https?:\/\/mallapi2\.qinlinkeji\.com url reject-200
+#hostname = pic-mall.qinlinad.com,qlp.qinlinad.com,file.qinlinad.com,,mallapi2.qinlinkeji.com
+#^https?:\/\/pic-mall\.qinlinad\.com url reject-200
+#^https?:\/\/qlp\.qinlinad\.com url reject-200
+#^https?:\/\/file\.qinlinad\.com url reject-200
+#^https?:\/\/mallapi2\.qinlinkeji\.com url reject-200
